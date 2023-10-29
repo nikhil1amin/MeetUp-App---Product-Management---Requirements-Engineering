@@ -12,6 +12,6 @@ The following skills were developed during the project.
  - UML: Use case, Class diagram, Activity diagram, Component diagram
  - Drafting Use case specification
  - Learnt tools for creating prototypes for software user interfaces such as Balsamiq & Figma
- - Stakeholder Managament
+ - Stakeholder Management
 
 
